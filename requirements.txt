@@ -6,3 +6,4 @@ streamlit
 langchain
 langgraph
 python-dotenv
+openpyxl
