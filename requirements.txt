@@ -1,0 +1,8 @@
+langchain-groq
+fastapi
+pandas 
+numpy
+streamlit
+langchain
+langgraph
+python-dotenv
