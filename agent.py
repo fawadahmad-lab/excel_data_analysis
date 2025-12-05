@@ -6,8 +6,8 @@ Uses OCRSpace API for image files and Llama via Groq for analysis
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+# import plotly.express as px
+# import plotly.graph_objects as go
 from typing import TypedDict, Annotated, Sequence
 import operator
 from langchain_groq import ChatGroq
